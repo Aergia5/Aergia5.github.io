@@ -145,3 +145,9 @@ img{
     display: flex;
     flex-direction: column;
 }
+table{
+    font-size:large;
+}
+section#inform-me{
+    text-align:center;
+}
