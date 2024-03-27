@@ -147,6 +147,7 @@ img{
 }
 table{
     font-size:large;
+    font-family: monospace;
 }
 section#inform-me{
     text-align:center;
